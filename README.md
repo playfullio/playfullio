@@ -1,9 +1,11 @@
 ### Hello! 👋   
     
 💻 This is a managing account for @playfullie organization    
-🎮 We develop and publish casual mobile games
-🔭 Our team is growing, so don't hesitate to contact us
-💬 playfullie@hotmail.com   
+🎮 We develop and publish casual mobile games    
+🔭 Our team is growing, so don't hesitate to contact us    
+💬 playfullie@hotmail.com      
+
+       
 
 <!--
 **playfullio/playfullio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
